@@ -1,0 +1,8 @@
+{
+  "name": "Simple Node.js server for resolving HomePlatform ip: Node.js",
+  "description": "Simple Node.js server where one client can report its ip, and another get it from here. Quick solution to incompatible Bonjour service discovery between node.js and Android app.",
+  "repository": "https://github.com/mkapiczy/HomePlatformResolver.git",
+  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
